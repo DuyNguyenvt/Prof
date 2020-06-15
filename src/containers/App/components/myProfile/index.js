@@ -282,8 +282,8 @@ function MyProfile() {
             <h2 className="pf-sect--title">References</h2>
             <hr className="pf-sect--hr" />
             <div className="pf-sect--title">Portfolio: </div>
-            <a href="https://portfolio-app-duy-nguyen.herokuapp.com/">
-              https://portfolio-app-duy-nguyen.herokuapp.com/
+            <a href="https://duy-nguyen-portfolio.herokuapp.com/">
+              https://duy-nguyen-portfolio.herokuapp.com/
             </a>
             <br />
             <br />
