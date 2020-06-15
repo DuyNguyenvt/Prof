@@ -6,7 +6,7 @@
 
 ## Heroku deployed page
 
-https://portfolio-app-duy-nguyen.herokuapp.com/
+https://duy-nguyen-portfolio.herokuapp.com/ 
 
 ## Available Scripts
 
